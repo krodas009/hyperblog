@@ -16,6 +16,7 @@ body
 }
 #container
 {
+    background: chocolate;
     width: 70%;
     padding: 1em;
     text-align: left;
